@@ -56,6 +56,3 @@ b=["red","blue","green"]
 for i in a:
     for j in b:
         print(i,j)
-    
-     
-

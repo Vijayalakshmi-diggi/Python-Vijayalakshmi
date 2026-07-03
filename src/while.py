@@ -19,4 +19,12 @@ while i<=5:
     fact=fact*i
     print(fact)
     i=i+1
+##
+password="viji@123"
+while True:
+    n=input("enter password")
+    if n==password:
+        print(True)
+    else:
+        print(False)
     

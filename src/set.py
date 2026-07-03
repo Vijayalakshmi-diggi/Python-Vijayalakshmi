@@ -1,0 +1,10 @@
+c={1,3,2,4,6,5}
+d={'banana','dog','apll','cat'}
+print(c)
+print(d)
+#add
+c.add(8)
+print(c)
+#remove
+c.remove(4)
+print(c)
