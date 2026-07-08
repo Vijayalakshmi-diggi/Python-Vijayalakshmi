@@ -1,1 +1,10 @@
+[project]
+name = "{{cookiecutter.project_name}}"
+version = "{{cookiecutter.version}}"
+description = "Sample Python Project"
 
+authors = [
+    { name = "{{cookiecutter.author_name}}" }
+]
+
+requires-python = ">= {{cookiecutter.python_version}}"
