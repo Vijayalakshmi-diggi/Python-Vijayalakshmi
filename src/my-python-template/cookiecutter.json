@@ -1,1 +1,6 @@
-
+{
+    "project_name": "MyProject",
+    "author_name": "Vijayalakshmi",
+    "version": "1.0.0",
+    "python_version": "3.14"
+}
