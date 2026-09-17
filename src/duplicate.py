@@ -7,5 +7,5 @@ for i in a:
     else:
         b.append(i)
 #
-
+>>>>
 
